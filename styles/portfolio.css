@@ -47,3 +47,10 @@ nav .menu a{
     color: #474747;
     text-decoration: none;
 }
+#banner{
+    border: 1px solid red;
+    margin: 47px 38px 0 230px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
